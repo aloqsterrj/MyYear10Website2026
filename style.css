@@ -60,7 +60,7 @@ img {
     color: white;
     padding: 1em;
     border-radius: 0.5em;
-    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 10px 10px 10px rgba(23, 23, 59, 0.721);
 }
 
 /* Styling for the topic card titles */
@@ -83,7 +83,7 @@ img {
 
 
 .navbar {
-    background-color: #1c1c1c;
+    background-color: #201f1f;
     height: 60px;
     display: flex;
     align-items: center;
