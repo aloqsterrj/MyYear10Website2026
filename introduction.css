@@ -1,0 +1,29 @@
+.topic-card {
+    width: 345px;
+    min-height: 700px; /* makes the box much taller */
+    background-color: #444;
+    border-radius: 12px;
+    padding: 24px;
+    box-sizing: border-box;
+    box-shadow: 10px 10px 15px rgba(20, 20, 60, 0.5);
+}
+
+.topic-card img {
+    width: 100%;
+    display: block;
+    margin-bottom: 35px;
+}
+
+.topic-card-text {
+    color: white;
+    font-size: 36px;
+    text-align: center;
+    margin: 0 0 25px 0;
+}
+
+.topic-card p {
+    color: white;
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: left;
+}
