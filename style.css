@@ -105,3 +105,11 @@ img {
     background-color: #555;
     color: #66ccff;
 }
+
+
+.comfortaa-<uniquifier> {
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
