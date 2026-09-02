@@ -33,12 +33,10 @@ img {
 .hero-text {
     font-size: 4em;
     font-weight: bold;
-    font-family: "Comfortaa", sans-serif;
 }
 
 /* nice big font on a banner style background */
 .topic-title{
-    font-family: "Comfortaa", sans-serif;
     color: rgb(117, 168, 120);
     font-size: 2em;
     padding: 0.1em 3em;
@@ -97,7 +95,7 @@ img {
     color: white;
     text-decoration: none;
     font-size: 18px;
-    font-family: Arial, sans-serif;
+    font-family: "Comfortaa", sans-serif;
     padding: 10px 15px;
     border-radius: 8px;
     transition: 0.3s;
