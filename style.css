@@ -5,7 +5,7 @@ html {
     padding: 0;
     height: 100%;
     /* The Font Family- Really important!! */
-    font-family: Arial, sans-serif;
+    font-family: "Comfortaa", sans-serif;
     box-sizing: border-box;
     background-color: rgb(151, 185, 151);
 }
@@ -33,10 +33,12 @@ img {
 .hero-text {
     font-size: 4em;
     font-weight: bold;
+    font-family: "Comfortaa", sans-serif;
 }
 
 /* nice big font on a banner style background */
 .topic-title{
+    font-family: "Comfortaa", sans-serif;
     color: rgb(117, 168, 120);
     font-size: 2em;
     padding: 0.1em 3em;
