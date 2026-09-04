@@ -1,0 +1,105 @@
+/* Introduction page */
+
+.topic {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 60px;
+}
+
+
+/* Introduction title */
+
+.topic-title {
+    margin-top: 40px;
+    padding: 15px 60px;
+
+    background-color: rgb(108, 183, 93);
+    color: white;
+
+    border-radius: 10px;
+
+    text-align: center;
+
+}
+
+.topic-title h1 {
+    margin: 0;
+    font-size: 42px;
+}
+
+
+/* Content area */
+
+.topic-content {
+    display: block;
+
+    width: 100%;
+
+    margin: 50px auto;
+}
+
+
+/* BIG INTRODUCTION CARD */
+
+.intro-card {
+    width: 70%;
+    max-width: 1000px;
+
+    margin: 0 auto;
+    padding: 50px;
+
+    background-color: rgb(108, 183, 93);
+
+    border-radius: 15px;
+
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);
+
+    text-align: center;
+}
+
+
+/* Image */
+
+.intro-card img {
+    width: 40%;
+    max-width: 500px;
+
+    display: block;
+
+    margin: 0 auto 40px auto;
+
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+
+/* Heading */
+
+.intro-card-text {
+    color: white;
+
+    font-size: 38px;
+    line-height: 1.2;
+
+    max-width: 800px;
+
+    margin: 0 auto 35px auto;
+
+    text-align: center;
+}
+
+
+/* Paragraph */
+
+.intro-card p {
+    color: white;
+
+    font-size: 20px;
+    line-height: 1.7;
+
+    max-width: 750px;
+
+    margin: 0 auto;
+
+    text-align: center;
+}
